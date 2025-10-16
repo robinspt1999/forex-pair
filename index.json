@@ -1,0 +1,9 @@
+{
+  "name": "Forex OHLCV Data",
+  "description": "1-minute forex price data with Open, High, Low, Close, and Volume",
+  "records": 30,
+  "timeframe": "2025-07-10 14:59 to 15:28",
+  "data_file": "forex_data.json",
+  "format": "JSON",
+  "schema": ["timestamp", "open", "high", "low", "close", "volume"]
+}
